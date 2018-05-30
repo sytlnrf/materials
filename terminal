@@ -1,1 +1,5 @@
 
+mac terminal manpath: can't set the locale; make sure $LC_* and $LANG are correct
+
+
+https://www.cyberciti.biz/faq/os-x-terminal-bash-warning-setlocale-lc_ctype-cannot-change-locale/
